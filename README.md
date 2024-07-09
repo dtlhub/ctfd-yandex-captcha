@@ -12,6 +12,11 @@ Plugin that adds [Yandex SmartCaptcha](https://yandex.cloud/en/docs/smartcaptcha
 
 That's all!
 
+> [!WARNING]
+>
+> If you don't specify environment variables for `ctfd` container, captcha will not be present, and message
+> `Captcha is disabled because variable {ENV_VAR_KEY} is not present in environment` will be displayed in logs.
+
 ## Contributing
 
 If you have any ideas for improvements or bugfixes to this plugin, feel free to open a pull request. You can also open an issue to discuss your ideas or suggest improvements.
