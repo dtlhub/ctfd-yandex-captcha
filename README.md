@@ -19,4 +19,4 @@ That's all!
 
 ## Contributing
 
-If you have any ideas for improvements or bugfixes to this plugin, feel free to open a pull request. You can also open an issue to discuss your ideas or suggest improvements.
+If you have any suggestions for improvements or fixes to this plugin, please feel free to create a pull request. You can also create an issue to discuss your suggestions or propose new features.
