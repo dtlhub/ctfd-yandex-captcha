@@ -1,9 +1,9 @@
 import logging
 from functools import lru_cache, wraps
 
-from flask import Flask, request, render_template
 import requests
 from bs4 import BeautifulSoup
+from flask import Flask, request, render_template
 
 from .config import Config
 
